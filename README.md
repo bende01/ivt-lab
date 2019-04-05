@@ -1,6 +1,7 @@
 # IVT Spaceship
 
-Hahó, ez egy változatás.This is a sample application for the [Integration and 
+chang1Hahó, ez egy változatás.This is a sample application for the [Integration 
+and 
 Verification 
 Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
